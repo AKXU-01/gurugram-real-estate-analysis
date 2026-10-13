@@ -30,7 +30,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## How to Run
 ```bash
-git clone https://github.com/<your-username>/gurugram-real-estate-analysis.git
+git clone https://github.com/AKXU-01/gurugram-real-estate-analysis.git
 cd gurugram-real-estate-analysis
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook gurugram_real_state.ipynb
